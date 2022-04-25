@@ -5,7 +5,7 @@
 section {
   padding-top: 5rem;
 }
-.Read-more {
+.moreText {
   display: none;
 }
 .read-more-btn {
@@ -13,7 +13,7 @@ section {
   background-color: aquamarine;
   cursor: pointer;
 }
-.text.show-more .Read-more {
+.text.show-more .moreText {
   display: inline;
 }
 .text.show-more .dots {

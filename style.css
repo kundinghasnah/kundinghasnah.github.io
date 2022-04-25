@@ -5,3 +5,17 @@
 section {
   padding-top: 5rem;
 }
+.Read-more {
+  display: none;
+}
+.read-more-btn {
+  padding: 15px 60px;
+  background-color: aquamarine;
+  cursor: pointer;
+}
+.text.show-more .Read-more {
+  display: inline;
+}
+.text.show-more .dots {
+  display: none;
+}
